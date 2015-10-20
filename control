@@ -1,0 +1,9 @@
+Package: com.stepheneisenhauer.omnicorrect
+Name: OmniCorrect
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Autocorrect SpringBoard!
+Maintainer: Stephen Eisenhauer
+Author: Stephen Eisenhauer
+Section: Tweaks
